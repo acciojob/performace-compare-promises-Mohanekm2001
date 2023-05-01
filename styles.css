@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+/* styles.css */
+
+table {
+  margin-top: 50px;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+#output-all,
+#output-any {
+  font-weight: bold;
+}
